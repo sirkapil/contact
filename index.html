@@ -10,7 +10,12 @@
   </head>
   <body>
     <article>
-      <form id="contactform" method="POST">
+      <form id="contactform" netlify-honeypot="bot-field" action="thank-you" netlify>  <section>
+<p class="hidden"> 
+<label>Don’t fill this out: 
+<input name="bot-field"></label> 
+</p>
+</section>
 <section>
   <h2>Dear Kapil,</h2>
   <p>My
@@ -31,12 +36,6 @@
     <input type="number" name="mobile" id="number" minlength="10" placeholder="(your mobile no.)" required>
   </p>
 </section>
-
-   <input type="hidden" name="_next" value="/thanks/?form-submitted">
-
-    <input type="hidden" name="_subject" value="New Contact Form Submission">
-
-    <input type="text" name="_gotcha" style="display:none">
 <section>
   <p> I have a
     <label for="your-message">message</label> for you,</p>
