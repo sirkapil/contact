@@ -76,16 +76,16 @@ input:required:invalid {
   text-align: center;
   color: rgba(255, 255, 255, 0.4);
   font-style: italic;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 :-moz-placeholder {
   /* Firefox 18- */
   
   text-align: center;
-  color: #15B6B1;
+  color: #rgba(255, 255, 255, 0.4);
   font-style: italic;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 ::-moz-placeholder {
@@ -94,7 +94,7 @@ input:required:invalid {
   text-align: center;
   color: rgba(255, 255, 255, 0.4);
   font-style: italic;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 :-ms-input-placeholder {
@@ -145,5 +145,5 @@ small {
 }
 
 .website a {
-  color: yellow;
+  color: green;
 }
