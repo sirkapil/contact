@@ -85,7 +85,7 @@ input:required:invalid {
   /* Firefox 18- */
   
   text-align: center;
-  color: #rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.4);
   font-style: italic;
   font-weight: 300;
 }
