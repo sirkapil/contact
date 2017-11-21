@@ -74,13 +74,49 @@ This is link to Github Repository , you can clone it or fork it ! Any suitable c
 </section>
 <section class="bg-red">
 <h3> Custom CSS </h3>
-<p>i've modified a part of <i>tufte css</i> to change its background color to red , you will be thinking that how background color of this section changed to red as previous section was having almost white background ? it is using custom css via section tag.<br /><code>
+<p>i've modified a part of <i>tufte css</i> to change its background color to red , you will be thinking that how background color of this section changed to red as previous section was having almost white background ? it is using custom css via section tag.<br />
+  <pre>
+  <code>
 <section class="bg-red">
-</code>
+</code>  </pre>
 <br/>I'm giving you code of custom css , you can change the background color via hsla or hex format.<br />
-<pre>
+<pre class="code">
 <code>
+.bg-red {
+  box-shadow: 0 0 200px 100px hsla(9, 100%, 95%, 1);
+  background-color: hsla(9, 100%, 95%, 1);
+}
+/*Links: replicate underline that clears descenders */
+.bg-red a:link { text-decoration: none;
+         background: -webkit-linear-gradient(hsla(9, 100%, 95%, 1), hsla(9, 100%, 95%, 1)), -webkit-linear-gradient(hsla(9, 100%, 95%, 1), hsla(9, 100%, 95%, 1)), -webkit-linear-gradient(#333, #333);
+         background: linear-gradient(hsla(9, 100%, 95%, 1), hsla(9, 100%, 95%, 1)), linear-gradient(hsla(9, 100%, 95%, 1), hsla(9, 100%, 95%, 1)), linear-gradient(#333, #333);
+         -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+         -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+         background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+         background-repeat: no-repeat, no-repeat, repeat-x;
+         text-shadow: 0.03em 0 hsla(9, 100%, 95%, 1), -0.03em 0 hsla(9, 100%, 95%, 1), 0 0.03em hsla(9, 100%, 95%, 1), 0 -0.03em hsla(9, 100%, 95%, 1), 0.06em 0 hsla(9, 100%, 95%, 1), -0.06em 0 hsla(9, 100%, 95%, 1), 0.09em 0 hsla(9, 100%, 95%, 1), -0.09em 0 hsla(9, 100%, 95%, 1), 0.12em 0 hsla(9, 100%, 95%, 1), -0.12em 0 hsla(9, 100%, 95%, 1), 0.15em 0 hsla(9, 100%, 95%, 1), -0.15em 0 hsla(9, 100%, 95%, 1);
+         background-position: 0% 93%, 100% 93%, 0% 93%; }
 
+.rounded-corners {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  
+}
+
+body {
+  background-color: hsla(60, 100%, 97%, 1);
+}
+
+#shortcut {
+  position: fixed;
+  top: 0.0em;
+  left: calc( -112.391px + 1.5em );
+  transform: rotate( -90deg );
+  transform-origin: bottom right;
+  /* background-color: hsla(60, 100%, 97%, 1); /*/
+}
 </code>
 </pre>
 <a href="https://cdn.rawgit.com/sirkapil/contact/gh-pages/red.css" target="_blank">Custom CSS</a>
