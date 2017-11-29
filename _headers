@@ -1,0 +1,9 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Link: </tufte.css>; rel=preload; as=stylesheet
+  Link: </tufte.min.css>; rel=preload; as=stylesheet
+  Link: </red.css>; rel=preload; as=stylesheet
+  Link: </latex.css>; rel=preload; as=stylesheet
+  Link: </contact.css>; rel=preload; as=stylesheet
+  Link: </contact.js>; rel=preload; as=script
