@@ -1,26 +1,14 @@
 {
   "lang": "en",
-  "name": "Contact",
-  "short_name": "Contact",
   "background_color": "#ff4500",
-  "display": "browser",
-  "theme_color": "#ff4500",
-  "icons": [
-    {
-      "src": "//sirkapil.me/img/icon/icon.png",
-      "type": "image/png",
-      "sizes": "48x48"
-    },
-    {
-      "src": "//sirkapil.me/img/icon/icon.png",
-      "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "//sirkapil.me/img/icon/icon.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-  ]
+  "name": "Contact",
+  "short_name": "Contact",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://sirkapil.me/img/icon/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
 }
-
