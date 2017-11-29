@@ -4,6 +4,7 @@
   "name": "Contact",
   "short_name": "Contact",
   "display": "standalone",
+  "start_url": "/?data=false",
   "icons": [
     {
       "src": "https://sirkapil.me/img/icon/icon.png",
