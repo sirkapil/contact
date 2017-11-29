@@ -1,6 +1,11 @@
 {
-  "short_name": "SirKapil",
-  "name": "Personal Blog of Kapil Chaudhary",
+  "lang": "en",
+  "name": "Contact Kapil",
+  "short_name": "Contact",
+  "start_url": "/?launcher=true",
+  "background_color": "#ff4500",
+  "display": "browser",
+  "theme_color": "#ff4500",
   "icons": [
     {
       "src": "//sirkapil.me/img/icon/icon.png",
@@ -32,10 +37,6 @@
       "type": "image/png",
       "sizes": "192x192"
     }
-  ],
-  "start_url": "/?launcher=true",
-  "background_color": "#ff4500",
-  "display": "browser",
-  "theme_color": "#ff4500"
+  ]
 }
 
