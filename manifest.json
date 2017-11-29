@@ -1,6 +1,6 @@
 {
   "lang": "en",
-  "name": "Contact Kapil",
+  "name": "Contact",
   "short_name": "Contact",
   "background_color": "#ff4500",
   "display": "browser",
@@ -15,21 +15,6 @@
       "src": "//sirkapil.me/img/icon/icon.png",
       "type": "image/png",
       "sizes": "96x96"
-    },
-    {
-      "src": "//sirkapil.me/img/icon/icon.png",
-      "type": "image/png",
-      "sizes": "126x126"
-    },
-    {
-      "src": "//sirkapil.me/img/icon/icon.png",
-      "type": "image/png",
-      "sizes": "152x152"
-    },
-    {
-      "src": "//sirkapil.me/img/icon/icon.png",
-      "type": "image/png",
-      "sizes": "144x144"
     },
     {
       "src": "//sirkapil.me/img/icon/icon.png",
