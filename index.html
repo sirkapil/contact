@@ -3,12 +3,20 @@
   <head>
     <meta charset="utf-8">
     <title>Contact</title>
-    <link rel='stylesheet' href='https://contact.sirkapil.me/tufte.min.css' type='text/css'>
-    <link rel='stylesheet' href='https://contact.sirkapil.me/latex.css' type='text/css'>
-    <link rel='stylesheet' href='https://contact.sirkapil.me/red.css' type='text/css'>
+    <link rel="preload" href="/tufte.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/tufte.min.css"></noscript>
+    <link rel="preload" href="/contact.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/contact.css"></noscript>
+     <link rel="preload" href="/red.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+     <noscript><link rel="stylesheet" href="/red.css"></noscript>
+    <link rel="preload" href="/latex.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+     <noscript><link rel="stylesheet" href="/latex.css"></noscript>
+      <script> 
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(){ ... }());
+      </script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="manifest" href="/manifest.json">
-     <link href='https://contact.sirkapil.me/contact.css' rel='stylesheet' type='text/css'>
+    <link rel="manifest" href="/manifest.json">
 <!-- Chrome, Firefox OS and Opera --> 
 <meta name="theme-color" content="#ff4500"> 
 <!-- Windows Phone --> 
