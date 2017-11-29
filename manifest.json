@@ -2,7 +2,6 @@
   "lang": "en",
   "name": "Contact Kapil",
   "short_name": "Contact",
-  "start_url": "/?launcher=true",
   "background_color": "#ff4500",
   "display": "browser",
   "theme_color": "#ff4500",
