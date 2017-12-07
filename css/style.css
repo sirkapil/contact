@@ -1,0 +1,85 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+.layer1 {
+	position: absolute;
+	left: calc(50% - 150px);
+	top: 30%;
+}
+
+.layer2 {
+	position: absolute;
+	left: calc(50% - 150px);
+	top: calc(30% - 30px);
+}
+
+.layer3 {
+	position: absolute;
+	left: calc(50% - 150px);
+	top: calc(30% - 60px);
+}
+
+.layer4 {
+	position: absolute;
+	left: calc(50% - 150px);
+	top: calc(30% - 90px);
+}
+
+.layer {
+	display: block;
+	
+	width: 300px;
+	height: 300px;
+	
+	border-radius: 100%;
+	
+	transform: rotateX(60deg);
+}
+
+.layer-red {
+	background: #795548;
+	position: absolute;
+	top: calc(50% - 20px);
+}
+
+.layer-pink {
+	background:#3E2723;
+	position: absolute;
+	top: calc(50% - 20px);
+}
+
+.layer4 .layer-pink:first-child {
+	width: 295px;
+	z-index: 100;
+	box-shadow: 0 2px 5px #444444;
+}
+
+.text {
+	width: 300px;
+	
+	text-align: center;
+	
+	z-index: 1000;
+	position: absolute;
+	
+	font-size: 40px;
+	font-family: 'Pacifico', cursive;
+	color: #ffffff;
+	text-shadow: 0 0 20px #777777;
+	
+	transform: rotateX(50deg);
+}
+
+#confetti
+{
+	background: #000;
+	height: 100%;
+	left: 0px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: -1;
+}
+canvas
+{
+	background: #fff;
+}
