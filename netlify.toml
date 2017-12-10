@@ -4,6 +4,7 @@
   # COMMENT: Multi-key header rules are expressed with multi line strings
   Link = '''
   </tufte.min.css>; rel=preload; as=stylesheet, \
+  </contact.css>; rel=preload; as=stylesheet, \
   </red.css>; rel=preload; as=stylesheet, \
   </latex.css>; rel=preload; as=stylesheet'''
 
