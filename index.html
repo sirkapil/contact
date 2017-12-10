@@ -12,26 +12,13 @@
 <!-- iOS Safari --> 
 <meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
 <link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192 240x240" href="//sirkapil.me/img/icon/icon.png" type="image/png">
+<noscript>
+    <link rel="stylesheet" href="tufte.min.css" />
+    <link rel="stylesheet" href="contact.css" />
+    <link rel="stylesheet" href="red.css" />
+   </noscript>
   </head>
   <body>
-  <noscript id="deferred-styles">
-    <link rel="stylesheet" type="text/css" href="tufte.min.css" />
-    <link rel="stylesheet" type="text/css" href="contact.css" />
-    <link rel="stylesheet" type="text/css" href="red.css" />
-     </noscript>
-    <script>
-      var loadDeferredStyles = function() {
-        var addStylesNode = document.getElementById("deferred-styles");
-        var replacement = document.createElement("div");
-        replacement.innerHTML = addStylesNode.textContent;
-        document.body.appendChild(replacement)
-        addStylesNode.parentElement.removeChild(addStylesNode);
-      };
-      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-          webkitRequestAnimationFrame || msRequestAnimationFrame;
-      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-      else window.addEventListener('load', loadDeferredStyles);
-    </script>
     <article>
       <form id="contactform" action="#" name="contactform" netlify>
 <section class="bg-red">
@@ -62,6 +49,28 @@
     </button>
    </form><br /><br /><br /><br /><br /><br /><br />
 <h4 style="text-align:right">Help</h4>
+<script type="text/javascript">
+var stylesheet1 = document.createElement('link');
+stylesheet1.href = 'tufte.min.css';
+stylesheet1.rel = 'stylesheet';
+stylesheet1.type = 'text/css';
+var godefer1 = document.getElementsByTagName('link')[0];
+godefer1.parentNode.insertBefore(stylesheet1, godefer1); 
+
+var stylesheet1 = document.createElement('link');
+stylesheet2.href = 'latex.css';
+stylesheet2.rel = 'stylesheet';
+stylesheet2.type = 'text/css';
+var godefer2 = document.getElementsByTagName('link')[0];
+godefer2.parentNode.insertBefore(stylesheet2, godefer2); 
+
+var stylesheet3 = document.createElement('link');
+stylesheet3.href = 'red.css';
+stylesheet3.rel = 'stylesheet';
+stylesheet3.type = 'text/css';
+var godefer3 = document.getElementsByTagName('link')[0];
+godefer3.parentNode.insertBefore(stylesheet3, godefer3); 
+</script>
     </article>
   </body>
 </html>
