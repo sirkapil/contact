@@ -6,3 +6,9 @@
   </tufte.min.css>; rel=preload; as=stylesheet, \
   </red.css>; rel=preload; as=stylesheet, \
   </latex.css>; rel=preload; as=stylesheet'''
+
+[[redirects]]
+   from   = "/help"
+   to     = "/instructions"
+   status = 301
+
