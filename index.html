@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -29,20 +32,20 @@
   <h2>Dear Kapil,</h2>
   <p>My
     <label for="name">name</label> is
-    <input type="text" name="name" id="name" minlength="3" required></p>
+    <input type="text" name="name" id="name" oninvalid="this.setCustomValidity('Enter your Full Name')" oninput="setCustomValidity('')" minlength="3" required></p>
 </section>
   <p>My
     <label for="email">email address</label> is
-    <input type="email" name="email" id="email" required>
+    <input type="email" name="email" oninvalid="this.setCustomValidity('Enter valid email')" oninput="setCustomValidity('')" id="email" required>
   </p><br />
   <p>My
     <label for="number">mobile number</label> is
-    <input type="tel" name="number" id="number" minlength="10" maxlength="13" required>
+    <input type="tel" oninvalid="this.setCustomValidity('Enter your correct mobile number')" oninput="setCustomValidity('')" name="number" id="number" minlength="10" maxlength="13" required>
   </p><br />
   <p> I have a
     <label for="your-message">message</label> for you,</p>
   <p>
-    <textarea name="your-message" id="your-message" rows="4" maxlength="100000" minlength="3" class="expanding" required></textarea>
+    <textarea name="your-message" id="your-message" rows="4" maxlength="100000" minlength="3" class="expanding" oninvalid="this.setCustomValidity('At least say hello to Me !')" oninput="setCustomValidity('')" required></textarea>
     </p>
     <button type="submit">
       <svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
