@@ -29,20 +29,20 @@
   <h2>Dear Kapil,</h2>
   <p>My
     <label for="name">name</label> is
-    <input type="text" name="name" id="name" oninvalid="this.setCustomValidity('Enter your full name !')" oninput="setCustomValidity('great !')" minlength="3" required></p>
+    <input type="text" name="name" id="name" data-value-missing=”Translate(‘Required’)” data-pattern-mismatch=”Translate(‘Enter your full name !’)” minlength="3" required></p>
 </section>
   <p>My
     <label for="email">email address</label> is
-    <input type="email" name="email" oninvalid="this.setCustomValidity('Enter a valid email id !')" oninput="setCustomValidity('going good !')" id="email" required>
+    <input type="email" name="email" data-value-missing=”Translate(‘Required’)” data-pattern-mismatch=”Translate(‘Enter a valid email address !’)” id="email" required>
   </p><br />
   <p>My
     <label for="number">mobile number</label> is
-    <input type="tel" oninvalid="this.setCustomValidity('Enter your correct mobile number !')" oninput="setCustomValidity('Carry on !')" name="number" id="number" minlength="10" maxlength="13" required>
+    <input type="tel" data-value-missing=”Translate(‘Required’)” data-pattern-mismatch=”Translate(‘Enter correct mobile number !’)” name="number" id="number" minlength="10" maxlength="13" required>
   </p><br />
   <p> I have a
     <label for="your-message">message</label> for you,</p>
   <p>
-    <textarea name="your-message" id="your-message" rows="4" maxlength="100000" minlength="3" class="expanding" oninvalid="this.setCustomValidity('At least say hello to me !')" oninput="setCustomValidity('Carry on !')" required></textarea>
+    <textarea name="your-message" id="your-message" rows="4" maxlength="100000" minlength="3" class="expanding" data-value-missing=”Translate(‘Required’)” data-pattern-mismatch=”Translate(At least say hello to me !’)" required></textarea>
     </p>
     <button type="submit">
       <svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
