@@ -1,0 +1,11 @@
+@font-face {
+  font-family: GillSans;
+  src: url("https://cdn1.netlify.com/gill-sans/GillSansStd.otf") format("opentype");
+}
+
+
+@font-face {
+ font-family: GillSans; 
+ font-weight: bold;
+ src: url("https://cdn1.netlify.com/gill-sans/GillSansStd-Bold.otf") format("opentype");
+}
