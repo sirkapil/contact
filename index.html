@@ -1,7 +1,6 @@
 ---
 layout: compress
 ---
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -24,10 +23,9 @@ layout: compress
     <noscript>
     <link rel="stylesheet" href="red.css" />
    </noscript>
-    
   </head>
   <body>
-      <form id="contactform" action="#" name="contactform" netlify>
+      <form id="contactform" action="#submitted" name="contactform" netlify>
 <section class="bg-red">
   <h2>Dear Kapil,</h2>
   <p>My
@@ -63,15 +61,16 @@ stylesheet1.rel = 'stylesheet';
 stylesheet1.type = 'text/css';
 var godefer1 = document.getElementsByTagName('link')[0];
 godefer1.parentNode.insertBefore(stylesheet1, godefer1); 
-
+</script>
+<script>
 var stylesheet2 = document.createElement('link');
 stylesheet2.href = 'contact.css';
 stylesheet2.rel = 'stylesheet';
 stylesheet2.type = 'text/css';
 var godefer2 = document.getElementsByTagName('link')[0];
 godefer2.parentNode.insertBefore(stylesheet2, godefer2); 
-
-
+</script>
+<script>
 var stylesheet3 = document.createElement('link');
 stylesheet3.href = 'red.css';
 stylesheet3.rel = 'stylesheet';
