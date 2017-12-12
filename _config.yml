@@ -1,11 +1,8 @@
 markdown: kramdown
 compress_html:
-         clippings: all
-         comments: ["<!-- ", " -->"]
-         endings: all
-         startings: [html, head, body]
-         ignore: 
-             envs: [local]
-         blanklines: false
-        
-         profile: true
+       clippings:      all
+       comments:       ["<!-- ", " -->"]
+       endings:        all 
+       ignore: 
+             envs:     [development]
+       startings:      [html, head, body]
