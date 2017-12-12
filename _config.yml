@@ -1,0 +1,11 @@
+markdown: kramdown
+compress_html:
+         clippings: all
+         comments: ["<!-- ", " -->"]
+         endings: all
+         startings: [html, head, body]
+         ignore: 
+             envs: [local]
+         blanklines: false
+        
+         profile: true
