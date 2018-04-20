@@ -25,7 +25,7 @@ layout: compress
    </noscript>
   </head>
   <body>
-      <form id="contactform" action="#submitted" name="contactform" netlify>
+      <form id="contactform" method="POST" action="thanks" name="contactform" netlify>
 <section class="bg-red">
   <h2>Dear Kapil,</h2>
   <p>My
@@ -49,7 +49,8 @@ layout: compress
       <label for="file">this file</label> along with this message.
       <input type="file" class="hidden" id="file">
     </p><br />
-
+    <div data-netlify-recaptcha></div>
+    
     <button type="submit">
       <svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
         <path d="M100,0L100,0 M23.8,7.1L100,0L40.9,36l-4.7-7.5L22,34.8l-4-11L0,30.5L16.4,8.7l5.4,15L23,7L23.8,7.1z M16.8,20.4l-1.5-4.3
