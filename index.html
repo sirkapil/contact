@@ -7,11 +7,11 @@ layout: compress
     <title>Contact</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="manifest.json">
-<!-- Chrome, Firefox OS and Opera --> 
-<meta name="theme-color" content="#ff4500"> 
-<!-- Windows Phone --> 
+<!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#ff4500">
+<!-- Windows Phone -->
 <meta name="msapplication-navbutton-color" content="#ff4500">
-<!-- iOS Safari --> 
+<!-- iOS Safari -->
 <meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
 <link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192 240x240" href="//sirkapil.me/img/icon/icon.png">
    <noscript>
@@ -40,11 +40,16 @@ layout: compress
     <label for="number">mobile number</label> is
     <input type="tel" name="number" id="number" minlength="10" maxlength="13" required>
   </p><br />
-  <p> I have a
+  <p> I have
     <label for="your-message">message</label> for you,</p>
   <p>
     <textarea name="your-message" id="your-message" rows="4" maxlength="100000" minlength="3" class="expanding" oninvalid="this.setCustomValidity('At least say hello to me')" required></textarea>
     </p>
+    <p>I am attaching
+      <label for="file">this file</label> along with this message.
+      <input type="file" class="hidden" id="file">
+    </p><br />
+
     <button type="submit">
       <svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
         <path d="M100,0L100,0 M23.8,7.1L100,0L40.9,36l-4.7-7.5L22,34.8l-4-11L0,30.5L16.4,8.7l5.4,15L23,7L23.8,7.1z M16.8,20.4l-1.5-4.3
@@ -60,7 +65,7 @@ stylesheet1.href = 'tufte.min.css';
 stylesheet1.rel = 'stylesheet';
 stylesheet1.type = 'text/css';
 var godefer1 = document.getElementsByTagName('link')[0];
-godefer1.parentNode.insertBefore(stylesheet1, godefer1); 
+godefer1.parentNode.insertBefore(stylesheet1, godefer1);
 </script>
 <script>
 var stylesheet2 = document.createElement('link');
@@ -68,7 +73,7 @@ stylesheet2.href = 'contact.css';
 stylesheet2.rel = 'stylesheet';
 stylesheet2.type = 'text/css';
 var godefer2 = document.getElementsByTagName('link')[0];
-godefer2.parentNode.insertBefore(stylesheet2, godefer2); 
+godefer2.parentNode.insertBefore(stylesheet2, godefer2);
 </script>
 <script>
 var stylesheet3 = document.createElement('link');
@@ -76,7 +81,7 @@ stylesheet3.href = 'red.css';
 stylesheet3.rel = 'stylesheet';
 stylesheet3.type = 'text/css';
 var godefer3 = document.getElementsByTagName('link')[0];
-godefer3.parentNode.insertBefore(stylesheet3, godefer3); 
-</script>  
+godefer3.parentNode.insertBefore(stylesheet3, godefer3);
+</script>
   </body>
 </html>
