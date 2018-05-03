@@ -5,7 +5,7 @@ layout: compress
   <head>
     <meta charset="utf-8">
     <title>Contact</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1.0">
     <link rel="manifest" href="manifest.json">
 <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#ff4500">
@@ -36,19 +36,11 @@ layout: compress
     <label for="email">email address</label> is
     <input type="email" name="email" id="email" required>
   </p><br />
-  <p>My
-    <label for="number">mobile number</label> is
-    <input type="tel" name="number" id="number" minlength="10" maxlength="13" required>
-  </p><br />
   <p> I have
     <label for="your-message">message</label> for you,</p>
   <p>
     <textarea name="your-message" id="your-message" rows="4" maxlength="100000" minlength="3" class="expanding" oninvalid="this.setCustomValidity('At least say hello to me')" required></textarea>
     </p>
-    <p>I am attaching
-      <label for="file">this file</label>
-      <input type="file" class="hidden" id="file"> along with this message.
-    </p><br />
     <button type="submit">
       <svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
         <path d="M100,0L100,0 M23.8,7.1L100,0L40.9,36l-4.7-7.5L22,34.8l-4-11L0,30.5L16.4,8.7l5.4,15L23,7L23.8,7.1z M16.8,20.4l-1.5-4.3
@@ -57,7 +49,6 @@ layout: compress
       <small><span style="color:#15B6B1">Launch</span></small>
     </button>
    </form><br /><br /><br /><br /><br /><br /><br />
-<h4 style="text-align:right"><a href="/help" target="_blank">•Need Help ?</a><br /><a href="/how" target="_blank">•How Built ?</a></h4>
 <script>
 var stylesheet1 = document.createElement('link');
 stylesheet1.href = 'tufte.min.css';
