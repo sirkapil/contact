@@ -9,14 +9,6 @@
   </latex.css>; rel=preload; as=stylesheet'''
 
 [[redirects]]
-   from   = "/help"
-   to     = "/instructions"
-   status = 301
-
-   from   = "/"
-   to     = "/chat"
-   status = 301
-   
    from   = "/*"
    to     = "/chat"
    status = 301
