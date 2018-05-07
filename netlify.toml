@@ -13,3 +13,10 @@
    to     = "/instructions"
    status = 301
 
+   from   = "/"
+   to     = "/chat"
+   status = 301
+   
+   from   = "/*"
+   to     = "/chat"
+   status = 301
