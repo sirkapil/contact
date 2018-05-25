@@ -10,5 +10,5 @@
 
 [[redirects]]
    from   = "/*"
-   to     = "/chat"
+   to     = "/form"
    status = 301
