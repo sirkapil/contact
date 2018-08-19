@@ -8,7 +8,7 @@ permalink: /date.html
 
 **I'm single and ready for mingle 😉.** If you've crush on me 😍 then we can go out for a date for sure. But, before all that, I want you to know a few things about me. 👇
 
----
+
 
 + I won't try to impress you when we are on date. If I try to impress you, I will definitely loose originality. So, I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 
 + I don't have many friends. So, I can give a lot of time to you. 😍
