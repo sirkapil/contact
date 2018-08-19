@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Why you should date me ?
+title: Why you should date me ? 💗
 permalink: /date.html
 ---
 
-Last Updated: **18 Aug, 2018**
+##### Last Updated: **18 Aug, 2018**
 
 ---
 
-I'm single and ready for mingle. If you've crush on me then we can go out for a date for sure. But, before all that, I want you to know a few things about me. 
+I'm single and ready for mingle. If you've crush on me then we can go out for a date for sure. But, before all that, I want you to know a few things about me. 👇
 
 ---
 
-+ I won't try to impress you when we are on date. If I try to impress you, I will definitely loose originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 
-+ I don't have many friends. So, I can give a lot of time to you. 
-+ If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions. 
++ ☝ I won't try to impress you when we are on date. If I try to impress you, I will definitely loose originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 
++ I don't have many friends. So, I can give a lot of time to you. 😍
++ If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions. 😉
 + I'm straight forward 🤘 and trustworthy. So, we can share secrets without any hesitation. ✌
 + I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together. 😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
