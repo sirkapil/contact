@@ -4,22 +4,19 @@ title: Why you should date me ?? 💗
 permalink: /date.html
 ---
 
-### Last Updated: **18 Aug, 2018**
+
+**I'm single and ready for mingle. If you've crush on me then we can go out for a date for sure. But, before all that, I want you to know a few things about me. 👇**
 
 ---
 
-I'm single and ready for mingle. If you've crush on me then we can go out for a date for sure. But, before all that, I want you to know a few things about me. 👇
-
----
-
-+ ☝ I won't try to impress you when we are on date. If I try to impress you, I will definitely loose originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 
++ I won't try to impress you when we are on date. If I try to impress you, I will definitely loose originality. So, I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 
 + I don't have many friends. So, I can give a lot of time to you. 😍
 + If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions. 😉
 + I'm straight forward 🤘 and trustworthy. So, we can share secrets without any hesitation. ✌
-+ I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together. 😊
++ I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together.😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
-+ I'm 5′10″. So, you can hug me perfectly as you are around 5′5″😍. I'll not mind even If you are taller, then you can remove your heel sandals 🤔😂.
-+ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too. 😅
++ I'm 5′10″. So, you can hug me perfectly if you are below 5′5″😍. I'll not mind even if you are taller, then you can remove your heel sandals 🤔😂.
++ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt (including CSIR-JRF June-18, IIT JAM-17 & GATE-17 etc.) and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks. 😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
 + I love classic comedy and romantic movies over action movies. I love peace. ✌
@@ -53,7 +50,7 @@ I'm single and ready for mingle. If you've crush on me then we can go out for a 
 + I forgive soon and forget very soon ☺
 + I look innocent but I have a devil mind. 😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;) 🙆
-+ I'm not a photogenic. So, we can take pics for memories 📸 instead of taking pics to post it on Instagram or Facebook. 
++ I'm not a photogenic. So, we can take pics for memories 📸 instead of taking pics to post it on instagram or facebook. 
 + I know a few native languages, brij bhasa, haryanvi and punjabi(little bit). So, Sometimes, you can get bouncer of few desi words. 😇
 + I'm not a conversational wizard but I'll make sure that our conversation remains interesting. ✌
 + I'm not very rich (Ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie.
