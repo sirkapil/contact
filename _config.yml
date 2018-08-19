@@ -1,3 +1,66 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "Contact | Kapil"
+description:        ""
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                ""
+author:             "sirkapil"
+twitter:
+  username:         "kapil_rc"
+#facebook:
+#  app_id:           1234
+#    publisher:      1234
+
+# URL
+baseurl:            "https://kapil.netlify.com"
+#baseurl:            "" #For Root Domain
+permalink:          /:title/
+
+# Markdown
+markdown:           kramdown
+
+# MathJax
+mathjax: true
+
+#Background
+bg: red
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-cloudinary
+
+
+exclude: 
+      ["_dev",
+      "gulpfile.js",    
+      "node_modules",
+      "package.json"]
+
+
 markdown: kramdown
 compress_html:
        clippings:      all

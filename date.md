@@ -1,14 +1,14 @@
 ---
-layout: none
-title: When you've soft corner for me 😍
+layout: page
+title: Why you should date me ?
 permalink: /date.html
 ---
 
-**18 Aug, 2018**
+Last Updated: **18 Aug, 2018**
 
 ---
 
-If someday you have a soft corner for me or start liking me. Then, May be we can give a chance to our relationship. Of course ! We will surely go out for a date. But, before all that, I want you to know a few things about me. Few things you already know and few you don't.
+I'm single and ready for mingle. If you've crush on me then we can go out for a date for sure. But, before all that, I want you to know a few things about me. 
 
 ---
 
@@ -16,11 +16,11 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I don't have many friends. So, I can give a lot of time to you. 
 + If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions. 
 + I'm straight forward 🤘 and trustworthy. So, we can share secrets without any hesitation. ✌
-+ I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. You don't know cooking. So, We can open YouTube and learn cooking online together. 😊
++ I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together. 😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
-+ I'm 5′10″. So, you can hug me perfectly as you are around 5′5″😍. I'll not mind even If you were taller, then you can remove your heel sandals 🤔😂.
++ I'm 5′10″. So, you can hug me perfectly as you are around 5′5″😍. I'll not mind even If you are taller, then you can remove your heel sandals 🤔😂.
 + I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too. 😅
-+ I like to hug 🤗 you from behind and kiss on your cheeks.😘
++ I like to hug 🤗 you from behind and kiss on your cheeks. 😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
 + I love classic comedy and romantic movies over action movies. I love peace. ✌
 + I can treat you like an angel for a moment 👰 and the very next moment I never give a f**k about you 💁. So, be ready to tolerate my fickle mindedness. 😇
@@ -31,16 +31,16 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I have a dirty sense of humour. So, you will not get bored. ✌
 + I have the patience to listen to your pain. 
 + I have never kissed any girl💋 before. But, yeah I can make you go crazy like no one ever did before 💖 
-+ I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym nd choosing stuffs like steroids.
++ I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym and choosing stuffs like steroids.
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you (childish nature) 😇
-+ There is an innocent kid☺, arrogant warrior 😎, blunt writer  and dirty humourous fellow 🙈 in me. 
++ There is an innocent kid☺, arrogant warrior 😎, blunt writer  and dirty humorous fellow 🙈 in me. 
 + I have good reading and writing skills (luckily). So, you can expect handwritten romantic letters 📜 with chocolate bars🍫 occasionally.
 + I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs 🎩
 + I'm an average boy with an average complexion and look. So, no girls 🙅 would snatch me from you. 
 + I love traditional girl for dating over modern torn jeans girl. 🙋
 + I love girl who wear less makeup for dating over girl wearing lots of makeup. 🙍🙅
-+ I have allergy from strong smelling perfumes. 😷 I start sneezing with that strong smell 🤕. Make sure, you don't use them. But, you can use low concentrated deodorants.☺
-+ I'm very short tempered😡. So, you have to take care of my anger. But, I cool down very soon.😌
++ I have allergy from strong smelling perfumes. 😷 I start sneezing with that strong smell 🤕. Make sure, you don't use them. But, you can use low concentrated deodorants. ☺
++ I'm very short tempered😡. So, you have to take care of my anger. But, I cool down very soon. 😌
 + I'm not your ex. I'm different person. So, don't expect his each and every good quality in me. But, yeah you can frankly tell me all those things, i should work on. 🙈
 + I may not open the door of cab for you but I'll walk vehicle side , holding your hand 👫 while I'm with you.
 + I may not respond to your call or text instantly. But, I'll call you as soon as i see notifications from you, no matter how much busy i'm. 😘
@@ -51,7 +51,7 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I'm stubborn but i can be convinced easily with sweet hugs🤗😍
 + I'm frank in expressing my feelings. I don't hide emotions and I can tell you exactly what is brewing inside me.
 + I forgive soon and forget very soon ☺
-+ I look innocent but I have a devil mind.😈
++ I look innocent but I have a devil mind. 😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;) 🙆
 + I'm not a photogenic. So, we can take pics for memories 📸 instead of taking pics to post it on Instagram or Facebook. 
 + I know a few native languages, brij bhasa, haryanvi and punjabi(little bit). So, Sometimes, you can get bouncer of few desi words. 😇
