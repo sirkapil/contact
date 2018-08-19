@@ -59,7 +59,7 @@ permalink: /date.html
 + We can plan to go on a unplanned destination on weekends. 🚣 It will be fun. Planning kills enthusiasm.
 + I believe that someday I'll be popular within my field of interests. So, you can see the glimpse of future conquerer in me. 😎
 
----
 
 **So, Let's plan a meeting and start the conversation with a mug of coffee !**
 
+---
