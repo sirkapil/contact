@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Why you should date me ?? 💗
+title: 💗
 permalink: /date.html
 ---
 
 ---
+Hello there,
 
-**I'm single and ready for mingle 😉.** If you've crush on me 😍 then we can go out for a date for sure. But, before all that, I want you to know a few things about me. 👇
+
+**Dear, future girlfriend. I'm single (ready for mingle 😂) until you comes to my life.** Someday, I'll meet you darling, when you'll have crush on me 😍 then surely, we can go out for a date. But, before all that, I want you to know a few things about me. 👇
+
 
 
 
@@ -17,12 +20,15 @@ permalink: /date.html
 + I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together.😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
 + I'm 5′10″. So, you can hug me perfectly if you are below 5′5″😍. I'll not mind even if you are taller, then you can remove your heel sandals 🤔😂.
-+ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including csir jrf (june-17), iit jam-17 & gate-17 etc.] and I have basic common sense too. 😅
++ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including csir jrf (june-17), iit jam-17 & gate-18 (preparing) etc.] and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks. 😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
+
+![forehead-kiss](../img/foreheadkiss.jpg)
+
 + I love classic comedy and romantic movies over action movies. I love peace. ✌
 + I can treat you like an angel for a moment 👰 and the very next moment I never give a f**k about you 💁. So, be ready to tolerate my fickle mindedness. 😇
-+ Sometimes, I use "F" words. But, It doesn't mean that I don't have manners or I don't respect others.
++ Sometimes, I use "F" words🤬. But, It doesn't mean that I don't have manners or I don't respect others.
 + I have a dual/ split personality. A social, funny a.s.a silent side and an evil 👿 , moody side 😇. So, you can enjoy dating 2 persons in me.
 + I prefer “Ladies first” rule, that doesn't make me gentleman. It's just because I can stare you from behind for a long time. Men will be men 😅
 + I love reading books 📚 and watching movies 🎬. So, obviously I have a great content in my mind to entertain you. 😍
@@ -61,5 +67,8 @@ permalink: /date.html
 
 
 **So, Let's plan a meeting and start the conversation with a mug of coffee !**
+
+😘
+---
 
 ---
