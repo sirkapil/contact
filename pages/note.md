@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A note to future girlfriend 💗
+title: A note to my future girlfriend 💗
 permalink: /note.html
 ---
 
@@ -10,7 +10,7 @@ permalink: /note.html
 
 **Dear, Future girlfriend
 
-I'm single (ready for mingle 😂) until you comes to my life.** Someday, I'll meet you darling, when we'll have crush on each other😍 then surely, we can go out for a date. But, before all that, I want you to know a few things about me. 👇
+I'm single (ready for mingle 😂) until you comes to my life.** I'm waiting for that day when I'll meet you darling, and we'll have crush on each other😍 and surely, we can go out for a date. But, before all that, I want you to know a few things about me. 👇
 
 
 
