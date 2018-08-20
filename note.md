@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A note to my future girlfriend 💗
+title: A Note to my future girlfriend 💗
 permalink: /note.html
 ---
 
@@ -8,9 +8,11 @@ permalink: /note.html
 
 
 
-**Dear, Future girlfriend
+**Dear, Future girlfriend**
 
-I'm single (ready for mingle 😂) until you comes to my life.** I'm waiting for that day when I'll meet you darling, and we'll have crush on each other😍 and surely, we can go out for a date. But, before all that, I want you to know a few things about me. 👇
+**I'm single (ready for mingle 😂) until you comes to my life.** I'm waiting for that day when I'll meet you darling, and we'll have crush on each other😍 and surely, we can go out for a date. But, before all that, **I want you to know a few things about me.** 👇
+
+
 
 
 
@@ -22,7 +24,7 @@ I'm single (ready for mingle 😂) until you comes to my life.** I'm waiting for
 + I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together.😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
 + I'm 5′10″. So, you can hug me perfectly if you are below 5′5″😍. I'll not mind even if you are taller, then you can remove your heel sandals 🤔😂.
-+ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including csir jrf (june-17), iit jam-17 & gate-18 (preparing) etc.] and I have basic common sense too. 😅
++ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including csir jrf'J-18, jam'17 , sau'17 & preparing for gate'18 and gre'19 ] and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks. 😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
 
