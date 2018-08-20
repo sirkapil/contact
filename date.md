@@ -1,14 +1,16 @@
 ---
 layout: page
-title: 💗
-permalink: /date.html
+title: A note to future girlfriend 💗
+permalink: /note.html
 ---
 
 ---
-Hello there,
 
 
-**Dear, future girlfriend. I'm single (ready for mingle 😂) until you comes to my life.** Someday, I'll meet you darling, when you'll have crush on me 😍 then surely, we can go out for a date. But, before all that, I want you to know a few things about me. 👇
+
+**Dear, Future girlfriend
+
+I'm single (ready for mingle 😂) until you comes to my life.** Someday, I'll meet you darling, when we'll have crush on each other😍 then surely, we can go out for a date. But, before all that, I want you to know a few things about me. 👇
 
 
 
@@ -72,3 +74,4 @@ Hello there,
 ---
 
 ---
+
