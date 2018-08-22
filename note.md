@@ -24,7 +24,7 @@ permalink: /note.html
 + I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together.😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
 + I'm 5′10″. So, you can hug me perfectly if you are below 5′5″😍. I'll not mind even if you are taller, then you can remove your heel sandals 🤔😂.
-+ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including csir jrf'J-18, jam'17 , sau'17 & preparing for gate'18 and gre'19 ] and I have basic common sense too. 😅
++ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including **csir** LS'J-18, **jam**'17 , **sau** '17 & preparing for **gate** '18 and **gre** '19 ] and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks. 😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
 
@@ -48,6 +48,7 @@ permalink: /note.html
 + I love traditional girl for dating over modern torn jeans girl. 🙋
 + I love girl who wear less makeup for dating over girl wearing lots of makeup. 🙍🙅
 + I have allergy from strong smelling perfumes. 😷 I start sneezing with that strong smell 🤕. Make sure, you don't use them. But, you can use low concentrated deodorants. ☺
++ I don't wear wrist watches. Make sure, you don't gift them ; even on my birthday. I'll prefer bracelet over wrist watch. 🙊
 + I'm very short tempered😡. So, you have to take care of my anger. But, I cool down very soon. 😌
 + I'm not your ex. I'm different person. So, don't expect his each and every good quality in me. But, yeah you can frankly tell me all those things, i should work on. 🙈
 + I may not open the door of cab for you but I'll walk vehicle side , holding your hand 👫 while I'm with you.
