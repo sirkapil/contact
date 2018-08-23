@@ -24,7 +24,7 @@ permalink: /note.html
 + I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. If you don't know cooking. Then, we can open youTube and learn cooking online together.😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
 + I'm 5′10″. So, you can hug me perfectly if you are below 5′5″😍. I'll not mind even if you are taller, then you can remove your heel sandals 🤔😂.
-+ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including **csir** LS'J-18, **jam**'17 , **sau** '17 & preparing for **gate** '18 and **gre** '19 ] and I have basic common sense too. 😅
++ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt [including **csir** LS'J-18, **jam**'17 , **sau**'17 & preparing for **gate**'18 and **gre**'19 ] and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks. 😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
 
@@ -42,16 +42,17 @@ permalink: /note.html
 + I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym and choosing stuffs like steroids.
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you (childish nature) 😇
 + There is an innocent kid☺, arrogant warrior 😎, blunt writer  and dirty humorous fellow 🙈 in me. 
-+ I have good reading and writing skills (luckily). So, you can expect handwritten romantic letters 📜 with chocolate bars🍫 occasionally.
++ I have good reading and writing skills (luckily😅). So, yeah you can expect handwritten romantic letters 📜 with chocolate bars🍫 occasionally.
 + I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs 🎩
 + I'm an average boy with an average complexion and look. So, no girls 🙅 would snatch me from you. 
 + I love traditional girl for dating over modern torn jeans girl. 🙋
 + I love girl who wear less makeup for dating over girl wearing lots of makeup. 🙍🙅
 + I have allergy from strong smelling perfumes. 😷 I start sneezing with that strong smell 🤕. Make sure, you don't use them. But, you can use low concentrated deodorants. ☺
-+ I don't wear wrist watches. Make sure, you don't gift them ; even on my birthday. I'll prefer bracelet over wrist watch. 🙊
++ I am very creative when it comes to deciding gifts. 🎁
++ I don't wear wrist watches. Make sure, you don't gift them, even on my birthday🎂. I'll prefer bracelet over wrist watch🙊
 + I'm very short tempered😡. So, you have to take care of my anger. But, I cool down very soon. 😌
 + I'm not your ex. I'm different person. So, don't expect his each and every good quality in me. But, yeah you can frankly tell me all those things, i should work on. 🙈
-+ I may not open the door of cab for you but I'll walk vehicle side , holding your hand 👫 while I'm with you.
++ I may not open the door of cab for you but I'll walk vehicle side, holding your hand 👫 while I'm with you.
 + I may not respond to your call or text instantly. But, I'll call you as soon as i see notifications from you, no matter how much busy i'm. 😘
 + I'm good at motivating people. So, you can have a motivational factor with you. ✌
 + I'm good listener. So, yeah I'll listen to your nonstop talks without getting bored. 👨
@@ -71,10 +72,18 @@ permalink: /note.html
 + I believe that someday I'll be popular within my field of interests. So, you can see the glimpse of future conquerer in me. 😎
 
 
-**So, Let's plan a meeting and start the conversation with a mug of coffee !**
+
+
+**So, yeah you can drop `hey` at my contact no. and we can plan a meeting and surely can start a conversation with a mug of coffee !**
 
 😘
 ---
 
 ---
+
+
+
+What other's say about me ? 👇
+
+[https://en.gravatar.com/heykapil](https://en.gravatar.com/heykapil)
 
