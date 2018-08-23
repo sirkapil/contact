@@ -74,7 +74,7 @@ permalink: /note.html
 
 
 
-**So, yeah you can drop `"hey"` at my contact # ([+919873064844](tel://+919873064844). Then, we can plan a meeting and surely can start a conversation with a mug of coffee !**
+**So, yeah you can drop `"hey"` at my contact # [+919873064844](tel://+919873064844). Then, we can plan a meeting and surely can start a conversation with a mug of coffee !**
 
 😘
 ---
