@@ -12,7 +12,7 @@ permalink: /note.html
 
 **I'm single (ready for mingle 😂) until you comes to my life.** I'm waiting for that day when I'll meet you darling, and we'll have crush on each other😍 and surely, we can go out for a date. But, before all that, **I want you to know a few things about me.** 👇
 
-
+---
 
 
 
@@ -42,7 +42,7 @@ permalink: /note.html
 + I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym and choosing stuffs like steroids.
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you (childish nature) 😇
 + There is an innocent kid☺, arrogant warrior 😎, blunt writer  and dirty humorous fellow 🙈 in me. 
-+ I have good reading and writing skills (luckily😅). So, yeah you can expect handwritten romantic letters 📜 with chocolate bars🍫 occasionally.
++ I have good reading and writing skills (luckily😅). So, yeah you can expect handwritten romantic letters 📜 wrapped with chocolate bars🍫 occasionally.
 + I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs 🎩
 + I'm an average boy with an average complexion and look. So, no girls 🙅 would snatch me from you. 
 + I love traditional girl for dating over modern torn jeans girl. 🙋
@@ -59,14 +59,14 @@ permalink: /note.html
 + I'm very sensitive and caring kind of personality. You can expect random calls 📞 just to know if you're fine.
 + I'm humble and down to earth fellow. ☺
 + I'm stubborn but i can be convinced easily with sweet hugs🤗😍
-+ I'm frank in expressing my feelings. I don't hide emotions and I can tell you exactly what is brewing inside me.
++ I'm frank in expressing my feelings. I don't hide emotions and I can tell you exactly what is brewing inside me.😅
 + I forgive soon and forget very soon ☺
 + I look innocent but I have a devil mind. 😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;) 🙆
 + I'm not a photogenic. So, we can take pics for memories 📸 instead of taking pics to post it on instagram or facebook. 
 + I know a few native languages, brij bhasa, haryanvi and punjabi(little bit). So, Sometimes, you can get bouncer of few desi words. 😇
 + I'm not a conversational wizard but I'll make sure that our conversation remains interesting. ✌
-+ I'm not very rich (Ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie.
++ I'm not very rich (Ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie. 
 + I'm interested in kabaddi, cricket and football. But, you can get hold on TV remote 📺 and I can check scores on my phone.📱
 + We can plan to go on a unplanned destination on weekends. 🚣 It will be fun. Planning kills enthusiasm.
 + I believe that someday I'll be popular within my field of interests. So, you can see the glimpse of future conquerer in me. 😎
@@ -74,7 +74,7 @@ permalink: /note.html
 
 
 
-**So, yeah you can drop `hey` at my contact no. and we can plan a meeting and surely can start a conversation with a mug of coffee !**
+**So, yeah you can drop `"hey"` at my contact # ([+919873064844](tel://+919873064844). Then, we can plan a meeting and surely can start a conversation with a mug of coffee !**
 
 😘
 ---
@@ -83,7 +83,7 @@ permalink: /note.html
 
 
 
-What other's say about me ? 👇
+Need to know what other's say about me ? 👇
 
 [https://en.gravatar.com/heykapil](https://en.gravatar.com/heykapil)
 
