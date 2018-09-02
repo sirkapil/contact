@@ -38,6 +38,7 @@ permalink: /note.html
 + I love reading books 📚 and watching movies 🎬. So, obviously I have a great content in my mind to entertain you. 😍
 + I have a dirty sense of humour. So, you will not get bored. ✌
 + I have the patience to listen to your pain. 
++ I'm not a great dancer. If you force then I can dance in weird fashion! 🙈
 + I have never kissed any girl💋 before. But, yeah I can make you go crazy like no one ever did before 💖 
 + I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym and choosing stuffs like steroids.
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you (childish nature) 😇
@@ -49,7 +50,7 @@ permalink: /note.html
 + I love girl who wear less makeup for dating over girl wearing lots of makeup. 🙍🙅
 + I have allergy from strong smelling perfumes. 😷 I start sneezing with that strong smell 🤕. Make sure, you don't use them. But, you can use low concentrated deodorants. ☺
 + I am very creative when it comes to deciding gifts. 🎁
-+ I don't wear wrist watches. Make sure, you don't gift them, even on my birthday🎂. I'll prefer bracelet over wrist watch🙊
++ I don't wear wrist watches. Make sure, you don't gift them, even on my birthday🎂. I'll prefer bands or bracelets over wrist watch🙊
 + I'm very short tempered😡. So, you have to take care of my anger. But, I cool down very soon. 😌
 + I'm not your ex. I'm different person. So, don't expect his each and every good quality in me. But, yeah you can frankly tell me all those things, i should work on. 🙈
 + I may not open the door of cab for you but I'll walk vehicle side, holding your hand 👫 while I'm with you.
