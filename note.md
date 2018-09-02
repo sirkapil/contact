@@ -38,7 +38,7 @@ permalink: /note.html
 + I love reading books 📚 and watching movies 🎬. So, obviously I have a great content in my mind to entertain you. 😍
 + I have a dirty sense of humour. So, you will not get bored. ✌
 + I have the patience to listen to your pain. 
-+ I'm not a great dancer. If you force then I can dance in weird fashion! 🙈
++ I'm not a good dancer. If you force then I can dance in weird fashion! 🙈
 + I have never kissed any girl💋 before. But, yeah I can make you go crazy like no one ever did before 💖 
 + I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym and choosing stuffs like steroids.
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you (childish nature) 😇
