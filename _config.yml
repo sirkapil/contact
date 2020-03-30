@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            "https://kapil.netlify.com"
+baseurl:            "https://contact.heykapil.in"
 #baseurl:            "" #For Root Domain
 permalink:          /:title/
 
